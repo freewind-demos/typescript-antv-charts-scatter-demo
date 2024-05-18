@@ -1,11 +1,9 @@
-TypeScript React Hello World Demo
+TypeScript AntV Charts Scatter Demo
 =================================
 
-一个最简单的Typescript + react项目，使用了webpack
+散点图，比较简单，就是一个二维数组
 
 ```
 npm install
 npm run demo
 ```
-
-It will open page on browser automatically.
